@@ -1,2 +1,6 @@
-# Projeto-de-um-site-de-desenvolvedor
-Projeto de um site de um desenvolvedor front-end.
+# Portfólio 
+Portfólio do desenvolvedor
+
+## Tarefas
+
+O controle das tarefas desse projeto será realizado no github
